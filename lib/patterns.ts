@@ -23,6 +23,12 @@ const files = {
     "pyodide.asm.wasm",
     "repodata.json",
   ],
+  "0.23.1": [
+    "package.json",
+    "pyodide.asm.js",
+    "pyodide.asm.wasm",
+    "repodata.json",
+  ],
 };
 export const versions = Object.keys(files);
 
